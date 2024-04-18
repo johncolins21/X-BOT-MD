@@ -1,8 +1,8 @@
 {
-  "name": "X-BOT-MD",
+  "name": "John Ai bot",
   "version": "3.0.0",
   "description": "X-BOT-MD Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/Q2UNwXR.jpg",
+  "logo": "https://i.imgur.com/WW3qVz8.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
   "stack": "container",
@@ -34,7 +34,7 @@
     "BOT_INFO": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/r3GZeiX.jpeg"
+      "value": "John Ai;https://i.imgur.com/WW3qVz8.jpg"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter Your Bot Name",
